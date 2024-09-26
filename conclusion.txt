@@ -1,0 +1,8 @@
+## What was the most challenging part of this assignment?
+# The most challenging part of this assignment was being able to troubleshoot when certain actions I tried to
+# perform resulted in an error. There were many resources to figure out how to navigate remotely accessing Git. I
+# imagine I will use these same resources in the future!
+
+## What is one element you learned about git and GitHub through this experience?
+# I learned about sitching between branches on Terminal. I also learned how to correctly submit a pull request
+# through the GitHub portal.
